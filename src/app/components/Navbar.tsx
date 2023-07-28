@@ -1,4 +1,5 @@
 import React from 'react';
+import { SlUser} from 'react-icons/sl'
 
 const Navbar: React.FC = () => {
   return (
@@ -13,6 +14,7 @@ const Navbar: React.FC = () => {
        <div><li> Login</li></div> 
         </ul>
         </div>
+        <div><SlUser /></div> 
     </nav>
   );
 };

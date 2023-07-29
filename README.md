@@ -19,4 +19,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Deploy on Vercel
 
-the deployed version of the App is Available on [Flascards_App](https://capstone-project-flashcardss.vercel.app/)
+the deployed version of the App is Available on [Flascards_App](https://gadbertrand-flashcards.netlify.app/)
